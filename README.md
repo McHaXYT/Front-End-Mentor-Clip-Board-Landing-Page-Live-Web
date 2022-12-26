@@ -1,4 +1,4 @@
-# Front End Mentor Clip Board Landing-Page Live Website
+# Front End Mentor Clip Board Landing Page Live Website
 
 Front End Mentor Clip Board Landing Page | Live Website
 
